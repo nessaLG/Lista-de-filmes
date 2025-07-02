@@ -1,3 +1,27 @@
 body{
+    background-color: rgb(255, 173, 190);
     color: rgba(255, 71, 102, 0.699);
-}
+ font-family: "Playfair Display", serif;
+ margin{
+ }
+ header{
+    border-bottom:solid 10px rgb(255, 213, 230)
+    padding: 20px;
+    font-size: 40px;
+    color:aquamarine
+ }
+ h1{
+    font-size: 30px;
+ }
+
+ p{
+font-size: 20px;
+ }
+
+
+ section{
+    background-color: rgb(190, 121, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    justify-content: center;
+ }
